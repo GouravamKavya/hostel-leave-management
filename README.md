@@ -35,7 +35,7 @@ Follow these steps to run the project on your local machine:
 ### 🔁 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/hostel-leave-management.git
+git clone https://github.com/GouravamKavya/hostel-leave-management
 cd hostel-leave-management
 
 🐍 2. Create & Activate Virtual Environment
